@@ -1,0 +1,22 @@
+{
+  "id": "3",
+  "title": "Longest Substring Without Repeating Characters",
+  "slug": "longest-substring-without-repeating-characters",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": "13 ms",
+  "memory": "47.8 MB",
+  "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2091462657/",
+  "submissionId": "2091462657",
+  "tags": [
+    {
+      "name": "Hash Table"
+    },
+    {
+      "name": "String"
+    },
+    {
+      "name": "Sliding Window"
+    }
+  ]
+}
