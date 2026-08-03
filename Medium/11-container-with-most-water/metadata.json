@@ -1,0 +1,22 @@
+{
+  "id": "11",
+  "title": "Container With Most Water",
+  "slug": "container-with-most-water",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": "5 ms",
+  "memory": "77.4 MB",
+  "url": "https://leetcode.com/problems/container-with-most-water/submissions/2093052151/",
+  "submissionId": "2093052151",
+  "tags": [
+    {
+      "name": "Array"
+    },
+    {
+      "name": "Two Pointers"
+    },
+    {
+      "name": "Greedy"
+    }
+  ]
+}
