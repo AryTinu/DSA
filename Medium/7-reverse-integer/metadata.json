@@ -1,0 +1,16 @@
+{
+  "id": "7",
+  "title": "Reverse Integer",
+  "slug": "reverse-integer",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": "1 ms",
+  "memory": "42.2 MB",
+  "url": "https://leetcode.com/problems/reverse-integer/submissions/2094494882/",
+  "submissionId": "2094494882",
+  "tags": [
+    {
+      "name": "Math"
+    }
+  ]
+}
