@@ -1,0 +1,22 @@
+{
+  "id": "633",
+  "title": "Sum of Square Numbers",
+  "slug": "sum-of-square-numbers",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": "0 ms",
+  "memory": "42.2 MB",
+  "url": "https://leetcode.com/problems/sum-of-square-numbers/?envType=problem-list-v2&envId=two-pointers",
+  "submissionId": "runcode_1785945213.223504_slUBIC1SdM",
+  "tags": [
+    {
+      "name": "Math"
+    },
+    {
+      "name": "Two Pointers"
+    },
+    {
+      "name": "Binary Search"
+    }
+  ]
+}
