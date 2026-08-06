@@ -1,0 +1,22 @@
+{
+  "id": "413",
+  "title": "Arithmetic Slices",
+  "slug": "arithmetic-slices",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": "0 ms",
+  "memory": "42.6 MB",
+  "url": "https://leetcode.com/problems/arithmetic-slices/?envType=problem-list-v2&envId=sliding-window",
+  "submissionId": "runcode_1785989343.9747584_VsxrFJI8DA",
+  "tags": [
+    {
+      "name": "Array"
+    },
+    {
+      "name": "Dynamic Programming"
+    },
+    {
+      "name": "Sliding Window"
+    }
+  ]
+}
