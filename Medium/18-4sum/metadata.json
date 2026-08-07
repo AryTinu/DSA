@@ -1,0 +1,22 @@
+{
+  "id": "18",
+  "title": "4Sum",
+  "slug": "4sum",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": "21 ms",
+  "memory": "45.8 MB",
+  "url": "https://leetcode.com/problems/4sum/submissions/2098423619/",
+  "submissionId": "2098423619",
+  "tags": [
+    {
+      "name": "Array"
+    },
+    {
+      "name": "Two Pointers"
+    },
+    {
+      "name": "Sorting"
+    }
+  ]
+}
