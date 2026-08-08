@@ -1,0 +1,16 @@
+{
+  "id": "461",
+  "title": "Hamming Distance",
+  "slug": "hamming-distance",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": "0 ms",
+  "memory": "41.4 MB",
+  "url": "https://leetcode.com/problems/hamming-distance/",
+  "submissionId": "runcode_1786215137.0598612_TZqiCuOaYG",
+  "tags": [
+    {
+      "name": "Bit Manipulation"
+    }
+  ]
+}
