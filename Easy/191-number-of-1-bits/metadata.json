@@ -1,0 +1,19 @@
+{
+  "id": "191",
+  "title": "Number of 1 Bits",
+  "slug": "number-of-1-bits",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": "0 ms",
+  "memory": "42.4 MB",
+  "url": "https://leetcode.com/problems/number-of-1-bits/submissions/2099476737/",
+  "submissionId": "2099476737",
+  "tags": [
+    {
+      "name": "Divide and Conquer"
+    },
+    {
+      "name": "Bit Manipulation"
+    }
+  ]
+}
