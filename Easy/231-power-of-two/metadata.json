@@ -1,0 +1,22 @@
+{
+  "id": "231",
+  "title": "Power of Two",
+  "slug": "power-of-two",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": "0 ms",
+  "memory": "42.1 MB",
+  "url": "https://leetcode.com/problems/power-of-two/",
+  "submissionId": "runcode_1786213177.7278943_Ca55qXx3mn",
+  "tags": [
+    {
+      "name": "Math"
+    },
+    {
+      "name": "Bit Manipulation"
+    },
+    {
+      "name": "Recursion"
+    }
+  ]
+}
