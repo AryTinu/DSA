@@ -1,0 +1,16 @@
+{
+  "id": "2323",
+  "title": "Minimum Bit Flips to Convert Number",
+  "slug": "minimum-bit-flips-to-convert-number",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": "0 ms",
+  "memory": "42.2 MB",
+  "url": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/submissions/2099426950/",
+  "submissionId": "2099426950",
+  "tags": [
+    {
+      "name": "Bit Manipulation"
+    }
+  ]
+}
