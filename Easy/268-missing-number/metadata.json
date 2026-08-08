@@ -1,0 +1,31 @@
+{
+  "id": "268",
+  "title": "Missing Number",
+  "slug": "missing-number",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": "0 ms",
+  "memory": "42.6 MB",
+  "url": "https://leetcode.com/problems/missing-number/",
+  "submissionId": "runcode_1786215904.6555908_48hZA3Kwtg",
+  "tags": [
+    {
+      "name": "Array"
+    },
+    {
+      "name": "Hash Table"
+    },
+    {
+      "name": "Math"
+    },
+    {
+      "name": "Binary Search"
+    },
+    {
+      "name": "Bit Manipulation"
+    },
+    {
+      "name": "Sorting"
+    }
+  ]
+}
