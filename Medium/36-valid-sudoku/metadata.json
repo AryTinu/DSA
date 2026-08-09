@@ -1,0 +1,22 @@
+{
+  "id": "36",
+  "title": "Valid Sudoku",
+  "slug": "valid-sudoku",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": "11 ms",
+  "memory": "52.6 MB",
+  "url": "https://leetcode.com/problems/valid-sudoku/submissions/2100780499/",
+  "submissionId": "2100780499",
+  "tags": [
+    {
+      "name": "Array"
+    },
+    {
+      "name": "Hash Table"
+    },
+    {
+      "name": "Matrix"
+    }
+  ]
+}
