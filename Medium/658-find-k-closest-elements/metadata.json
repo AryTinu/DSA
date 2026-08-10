@@ -1,0 +1,31 @@
+{
+  "id": "658",
+  "title": "Find K Closest Elements",
+  "slug": "find-k-closest-elements",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": "0 ms",
+  "memory": "42.9 MB",
+  "url": "https://leetcode.com/problems/find-k-closest-elements/description/?envType=problem-list-v2&envId=sliding-window",
+  "submissionId": "runcode_1786345626.220025_sETSCOdvnX",
+  "tags": [
+    {
+      "name": "Array"
+    },
+    {
+      "name": "Two Pointers"
+    },
+    {
+      "name": "Binary Search"
+    },
+    {
+      "name": "Sliding Window"
+    },
+    {
+      "name": "Sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)"
+    }
+  ]
+}
