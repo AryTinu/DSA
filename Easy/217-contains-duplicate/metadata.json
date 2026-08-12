@@ -1,0 +1,22 @@
+{
+  "id": "217",
+  "title": "Contains Duplicate",
+  "slug": "contains-duplicate",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": "18 ms",
+  "memory": "108 MB",
+  "url": "https://leetcode.com/problems/contains-duplicate/submissions/2104041547/",
+  "submissionId": "2104041547",
+  "tags": [
+    {
+      "name": "Array"
+    },
+    {
+      "name": "Hash Table"
+    },
+    {
+      "name": "Sorting"
+    }
+  ]
+}
