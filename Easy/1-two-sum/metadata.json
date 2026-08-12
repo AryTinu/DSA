@@ -1,0 +1,19 @@
+{
+  "id": "1",
+  "title": "Two Sum",
+  "slug": "two-sum",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": "0 ms",
+  "memory": "42.6 MB",
+  "url": "https://leetcode.com/problems/two-sum/submissions/2104018058/",
+  "submissionId": "runcode_1786528811.6670985_6Z1ksiqUD9",
+  "tags": [
+    {
+      "name": "Array"
+    },
+    {
+      "name": "Hash Table"
+    }
+  ]
+}
