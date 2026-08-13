@@ -1,0 +1,22 @@
+{
+  "id": "2591",
+  "title": "Frog Jump II",
+  "slug": "frog-jump-ii",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": "0 ms",
+  "memory": "42.7 MB",
+  "url": "https://leetcode.com/problems/frog-jump-ii/",
+  "submissionId": "runcode_1786617988.2454412_jIMw1vqzqs",
+  "tags": [
+    {
+      "name": "Array"
+    },
+    {
+      "name": "Binary Search"
+    },
+    {
+      "name": "Greedy"
+    }
+  ]
+}
