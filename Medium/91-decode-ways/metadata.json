@@ -1,0 +1,19 @@
+{
+  "id": "91",
+  "title": "Decode Ways",
+  "slug": "decode-ways",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": "0 ms",
+  "memory": "42.1 MB",
+  "url": "https://leetcode.com/problems/decode-ways/submissions/2106806994/",
+  "submissionId": "runcode_1786724820.3547747_jskE5N4mSG",
+  "tags": [
+    {
+      "name": "String"
+    },
+    {
+      "name": "Dynamic Programming"
+    }
+  ]
+}
