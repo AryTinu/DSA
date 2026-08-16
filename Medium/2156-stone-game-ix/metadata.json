@@ -1,0 +1,37 @@
+{
+  "id": "2156",
+  "title": "Stone Game IX",
+  "slug": "stone-game-ix",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": "0 ms",
+  "memory": "42.6 MB",
+  "url": "https://leetcode.com/problems/stone-game-ix/?envType=daily-question&envId=2026-08-16",
+  "submissionId": "runcode_1786890009.9540124_ERBYpKz8Qx",
+  "tags": [
+    {
+      "name": "Array"
+    },
+    {
+      "name": "Math"
+    },
+    {
+      "name": "Greedy"
+    },
+    {
+      "name": "Minimax"
+    },
+    {
+      "name": "Counting"
+    },
+    {
+      "name": "Game Theory"
+    },
+    {
+      "name": "Nim Game"
+    },
+    {
+      "name": "Zero-Sum Game"
+    }
+  ]
+}
