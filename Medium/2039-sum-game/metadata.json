@@ -1,0 +1,25 @@
+{
+  "id": "2039",
+  "title": "Sum Game",
+  "slug": "sum-game",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": "0 ms",
+  "memory": "42.7 MB",
+  "url": "https://leetcode.com/problems/sum-game/?envType=daily-question&envId=2026-08-23",
+  "submissionId": "runcode_1787486886.2770789_jhVMpcWXcc",
+  "tags": [
+    {
+      "name": "Math"
+    },
+    {
+      "name": "String"
+    },
+    {
+      "name": "Greedy"
+    },
+    {
+      "name": "Game Theory"
+    }
+  ]
+}
