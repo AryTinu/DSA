@@ -1,0 +1,19 @@
+{
+  "id": "3150",
+  "title": "Shortest and Lexicographically Smallest Beautiful String",
+  "slug": "shortest-and-lexicographically-smallest-beautiful-string",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": "18 ms",
+  "memory": "47.3 MB",
+  "url": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/submissions/2120412993/?envType=daily-question&envId=2026-08-26",
+  "submissionId": "2120412993",
+  "tags": [
+    {
+      "name": "String"
+    },
+    {
+      "name": "Sliding Window"
+    }
+  ]
+}
